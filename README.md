@@ -1,4 +1,4 @@
 # hello-world
 códigos de la U
 
-me gusta la tecnología,
+me gusta aprender,
